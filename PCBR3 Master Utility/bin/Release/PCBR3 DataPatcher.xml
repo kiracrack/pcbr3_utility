@@ -1,0 +1,572 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PCBR3DataPatcher
+</name>
+</assembly>
+<members>
+<member name="P:PCBR3_DataPatcher.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._068">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._099">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._125">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._127">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._1271">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._1314929340_xls">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources._Select">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.accessories_text_editor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.accessories_text_editor_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.accessories_text_editor1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.ADD">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.add_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.add_481">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.addcross">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Address_book">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Adobe_Acrobat_Pro_PDF">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.application_vnd_ms_excel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.application_vnd_ms_powerpoint">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.application_vnd_oasis_opendocument_spreadsheet_template">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.application_vnd1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.application_vnd2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.applications_office_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.archive_insert_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.arrow_circle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.arrow_continue_090_left">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.basket_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.bg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blog__arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blog__minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blog__pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blogs">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blue_document_excel_csv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.blueprint_tool">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.bookmark_new">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.building">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Business_Man_Blue">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Business_Man_Blue1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Business_Man_Blue2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.calculator__minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.calculator__pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.chart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.clipboard__minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.clipboard__pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.coin_search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Company">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Company1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Contacts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Contacts1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.cross_circle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.cross_circle1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.cross_circle2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Database">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.database_import">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Dateandtime">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.dbplus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.dbplus1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.debug_step_into">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.document_encrypt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.document_pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.documentation">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.documentation1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Documents__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Drawing">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.EBay">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.edit_clear_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.File_Write_Document">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.File_XLS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Folder_Group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Graph">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.inbox_table">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Income">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Internet__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.kiconedit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.kmines_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.kspread">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.kviewshell">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.licence">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.lincity_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.main">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.money">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.money_coin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.My_Document">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.newspaper__plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.notebook__minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.notebook__pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.notebook__pencil1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.notebooks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.obconf">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.office_building">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.osmo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Palette">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Period_end">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.pie_chart_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.preferences_desktop_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.preferences_system_network_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Print__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Printer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Printer__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Recent_Documents">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.RecycleBin_Empty">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.run_build_file_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.run_build_install">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Search__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Search__5_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Search__6_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.Search1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.sort_number">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.sql">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.svn_commit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.svn_commit1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.svn_update">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.system_switch_user_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.table_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.tasks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.text_x_csharp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.text_x_ldif">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.User__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user__arrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user__minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user__minus1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user__pencil">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user__plus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.User_Accounts">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.User_Accounts1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user_add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.User_group">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user_info">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user_thumb_down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.user3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.view_media_playlist_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.x_office_spreadsheet">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PCBR3_DataPatcher.My.Resources.Resources.x_office_spreadsheet1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PCBR3_DataPatcher.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

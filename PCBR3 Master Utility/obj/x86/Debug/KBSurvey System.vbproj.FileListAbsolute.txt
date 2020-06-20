@@ -1,0 +1,17 @@
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\bin\Debug\KBSurvey System.exe
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\bin\Debug\KBSurvey System.pdb
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\bin\Debug\KBSurvey System.xml
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\KBSurvey System.exe
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\KBSurvey System.xml
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\KBSurvey System.pdb
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.frmBusiness.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\KBSurvey System.exe.licenses
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.MBAIMain.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.frmClients.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.frmClientInfo.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.frmUserInfo.resources
+D:\Kiracrack\MY.NET\Survey System\KBSurvey System\KBSurvey System\obj\x86\Debug\WindowsApplication1.frmUsers.resources

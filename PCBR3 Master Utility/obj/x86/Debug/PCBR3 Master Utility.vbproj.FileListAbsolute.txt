@@ -1,0 +1,1496 @@
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.OfficeSkins.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\MySql.Data.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.OfficeSkins.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\MySql.Data.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAoChartSummary.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAoChartSummary.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.OfficeSkins.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\MySql.Data.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAoChartSummary.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+E:\MY.NET\Backup\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v11.1.Core.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.OfficeSkins.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v11.1.Core.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v11.1.Core.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v11.1.Core.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v11.1.UI.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Core.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v11.1.Win.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v11.1.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\MySql.Data.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbprojResolveAssemblyReference.cache
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAoChartSummary.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+E:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Xpo.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Xpo.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Xpo.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Xpo.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.UI.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Win.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCollectionRate.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmNoticeGenerator.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptNotice.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGraph.resources
+D:\My.Net\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLiquidationReport.resources
+D:\MY.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPrintWithHeader.resources
+D:\My.Net\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFCleanUP.resources
+D:\My.Net\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptplainReport.resources
+D:\My.Net\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFIdentifier.resources
+D:\My.Net\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmClientConnetions.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Xpo.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Xpo.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Xpo.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Xpo.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.UI.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Win.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmClientConnetions.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFIdentifier.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFCleanUP.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLiquidationReport.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmNoticeGenerator.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCollectionRate.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGraph.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptplainReport.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPrintWithHeader.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptNotice.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\VB.NET\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe.config
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.exe
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.pdb
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 DataPatcher.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v12.1.Core.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v12.1.Core.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v12.1.Core.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v12.1.Core.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v12.1.UI.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Core.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v12.1.Win.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v12.1.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Data.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Data.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Data.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Data.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.PivotGrid.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Printing.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.RichEdit.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Xpo.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Xpo.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Xpo.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Xpo.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraBars.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraBars.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraBars.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraBars.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v12.1.UI.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraEditors.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGauges.v12.1.Core.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v12.1.Win.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraLayout.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraNavBar.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPrinting.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraRichEdit.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraTreeList.v12.1.resources.dll
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConnectionSetup.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmImportRecords.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmClientConnetions.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFIdentifier.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCIFCleanUP.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLiquidationReport.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmNoticeGenerator.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCollectionRate.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmProductChartSummary.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGraph.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptplainReport.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPrintWithHeader.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptNotice.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.exe
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.xml
+D:\Share Files\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 DataPatcher.pdb
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v15.1.Win.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v15.1.Win.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.exe.config
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.exe
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.pdb
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsoleItem.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsoleCategory.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConnectionSetup.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDormantSettings.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmImportRecords.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmClientConnetions.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDormantGenerator.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCIFIdentifier.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCIFCleanUP.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLiquidationReport.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmNoticeGenerator.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCollectionRate.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmProductChartSummary.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCountPioneer.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAccountsHistory.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmGraph.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptDormancy.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptplainReport.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPrintWithHeader.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptNotice.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmdbUpdater2.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDatabaseConvert.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDatabaseUpdater.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmdbUpdater.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportGenerator.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPickProduct.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportDeveloper.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportMain.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportTemplate.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedHighLights.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedBranch.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedCapture.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedList.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidation.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCollection.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCount.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentHistory.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCompanySettings.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAccountStmt.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDateLoanSelect.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPastDueAccounts.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLitigatedAccounts.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDelinquentAccountInfo.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmMasterList.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDuplicateManager.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptConsolidated.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptStatementofAccount.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPaymentsHistory.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptAccountStmt.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPastdue.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmBackuptool.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmRestore.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLogin.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.Resources.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.PCBR3Main.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptLetigated.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptOtherReport.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAppearance.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmGridFormat.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmSystemSettings.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmUserProfile.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmUsersAccounts.resources
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.exe.licenses
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.exe
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.xml
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.pdb
+D:\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.exe.config
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.ResolveComReference.cache
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.exe
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.pdb
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\PCBR3 Utility.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.BonusSkins.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Charts.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.CodeParser.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Images.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v18.1.Export.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v18.1.UI.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.UI.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v18.1.Core.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v18.1.Win.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v18.1.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Configuration.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.DataSetExtensions.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Data.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Deployment.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Drawing.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Runtime.Serialization.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceModel.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.ServiceProcess.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Web.Services.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Windows.Forms.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\System.Xml.Linq.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Data.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Office.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Xpo.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraBars.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraCharts.v18.1.UI.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGauges.v18.1.Win.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraReports.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbprojResolveAssemblyReference.cache
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsoleItem.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsoleCategory.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConnectionSetup.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDormantSettings.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmImportRecords.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmClientConnetions.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDormantGenerator.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCIFIdentifier.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCIFCleanUP.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLiquidationReport.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmNoticeGenerator.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCollectionRate.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmProductChartSummary.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCountPioneer.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAccountsHistory.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmGraph.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptDormancy.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptplainReport.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPrintWithHeader.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptNotice.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmdbUpdater2.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDatabaseConvert.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDatabaseUpdater.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmdbUpdater.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportGenerator.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPickProduct.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportDeveloper.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportMain.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmReportTemplate.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedHighLights.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedBranch.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedCapture.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidatedList.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmConsolidation.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCollection.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentCount.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPaymentHistory.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmCompanySettings.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAccountStmt.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDateLoanSelect.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmPastDueAccounts.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLitigatedAccounts.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDelinquentAccountInfo.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmMasterList.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmDuplicateManager.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptConsolidated.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptStatementofAccount.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPaymentsHistory.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptAccountStmt.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptPastdue.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmBackuptool.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmRestore.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmLogin.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.Resources.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.PCBR3Main.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptLetigated.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.rptOtherReport.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmAppearance.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmGridFormat.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmSystemSettings.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmUserProfile.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3_Utility.frmUsersAccounts.resources
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Master Utility.vbproj.GenerateResource.Cache
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.exe.licenses
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.exe
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.xml
+C:\My Files\My.Net\System Core\PCBR3 Utility\PCBR3 Master Utility\obj\x86\Debug\PCBR3 Utility.pdb

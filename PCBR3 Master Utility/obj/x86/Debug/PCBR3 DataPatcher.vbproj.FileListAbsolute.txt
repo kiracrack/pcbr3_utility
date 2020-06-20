@@ -1,0 +1,224 @@
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.vbproj.ResolveComReference.cache
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmImport.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyvillage.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyMunicipal.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyArea.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyColor.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptLeaders.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\Monitoring\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.vbproj.ResolveComReference.cache
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmImport.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyvillage.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyMunicipal.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyArea.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyColor.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafieldTemplates.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafield.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAOPerformance.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUpdatePCBR3.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmItemCategory.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRegisterNew.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentSearch.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmconsolecategory.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+E:\Kiracrack\PCBR3 Data Patcher\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe.config
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.vbproj.ResolveComReference.cache
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.pdb
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.xml
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentSearch.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmItemCategory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafield.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafieldTemplates.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmImport.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUpdatePCBR3.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAOPerformance.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRegisterNew.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe.config
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.vbproj.ResolveComReference.cache
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.pdb
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleItem.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsoleCategory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAccountsHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater2.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseConvert.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatabaseUpdater.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmdbUpdater.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportGenerator.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPickProduct.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportDeveloper.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportMain.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmReportTemplate.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedHighLights.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedBranch.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedCapture.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidatedList.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmConsolidation.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCollection.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCount.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentSearch.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmItemCategory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafield.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDatafieldTemplates.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmImport.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmCompanySettings.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUpdatePCBR3.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAccountStmt.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDateLoanSelect.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPastDueAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLitigatedAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDelinquentAccountInfo.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmMasterList.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmDuplicateManager.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAOPerformance.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRegisterNew.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptConsolidated.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptStatementofAccount.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPaymentsHistory.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptAccountStmt.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptPastdue.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmBackuptool.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmRestore.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyvillage.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyMunicipal.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyArea.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmStatusResultbyColor.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmLogin.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.Resources.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.PCBR3Main.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptLetigated.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.rptOtherReport.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmAppearance.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmGridFormat.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmSystemSettings.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUserProfile.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmUsersAccounts.resources
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3 DataPatcher.exe.licenses
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.exe
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.pdb
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\bin\Debug\PCBR3 DataPatcher.xml
+D:\Kiracrack\MY.NET\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
+E:\Kiracrack\PCBR3 Utility\PCBR3 DataPatcher\obj\x86\Debug\PCBR3_DataPatcher.frmPaymentCountPioneer.resources
